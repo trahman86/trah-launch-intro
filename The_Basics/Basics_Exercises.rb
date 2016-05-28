@@ -44,5 +44,5 @@ puts 12.75 ** 2
 # SyntaxError: (irb):2: syntax error, unexpected ')', expecting '}'
 # from /usr/local/rvm/rubies/ruby-2.0.0-rc2/bin/irb:16:in `<main>'
 
-# In the second line of the irb shell, an expression attempted to evaluate but encountered an error where a closing paren ')' was replaced with '}'. Following this statement, the error traces back the path of the irb version that was used to evaluate the expression.
+# In the second line of the irb shell, an expression attempted to evaluate but encountered an error where an expected curly brace '}' was replaced with a closing paren ')'. Following this statement, the error traces back the path of the irb version that was used to evaluate the expression.
 
