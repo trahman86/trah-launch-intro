@@ -26,3 +26,23 @@ def num_check(number)
   puts status
 end
 num_check(number)
+
+# Exercise 4
+# 1. false
+# 2. "Did you get it right?"
+# 3. "Alright now!"
+
+# Exercise 5
+# Same as the original version of no.3
+
+# # Exercise 6
+# def equal_to_four (x)
+#   if x == 4
+#     puts "yup"
+#   else
+#     puts "nope"
+#   end
+# end
+
+# equal_to_four(5)
+
