@@ -22,5 +22,7 @@ Variables assignment and scope.
 ###Hashes
 
 ###Files
+Very useful examples demonstrating how to utilize JSON and XML files and use Ruby to convert them to CSV format.
 
 ###More Stuff
+This segment goes into further detail on topics that are adjacent to immediate programming basics. Valuable entry point to addressing problems more programmatically.
