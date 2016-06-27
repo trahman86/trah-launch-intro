@@ -1,3 +1,0 @@
-another example of writing to a file.
-Here we are ith a new line of text
-Writing to files in Ruby is simple
