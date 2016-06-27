@@ -9,6 +9,7 @@ A very straightforward introduction to the basic elements of HTML and CSS
 
 ###Project: Pear and Bacon Grilled Cheese
 
+A very lightweight webpage featuring a tasty looking sandwich.
 
 ##Introduction to Programming via Launch School - Back End Prep
 
