@@ -1,7 +1,7 @@
 # trah-launch-intro
 Launch School Intro to Programming: Front End and Back End Prep
 
-##Font End Prep
+##Front End Prep
 
 ###Intro HTML and CSS
 
