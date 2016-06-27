@@ -1,7 +1,16 @@
 # trah-launch-intro
-Launch School Intro to Programming
+Launch School Intro to Programming: Front End and Back End Prep
 
-##Introduction to Programming via Launch School
+##Font End Prep
+
+###Intro HTML and CSS
+
+A very straightforward introduction to the basic elements of HTML and CSS
+
+###Project: Pear and Bacon Grilled Cheese
+
+
+##Introduction to Programming via Launch School - Back End Prep
 
 ###The Basics
 
